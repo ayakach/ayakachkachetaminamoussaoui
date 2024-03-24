@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="villes">
+        <item>Agadir</item>
+        <item>Casablanca</item>
+        <item>Marrakech</item>
+        <item>Tanger</item>
+        <item>Rabat</item>
+        <item>Kenitra</item>
+        <item>Temara</item>
+        <item>Mohammedia</item>
+        <item>Essaouira</item>
+        <item>Settat</item>
+        <item>Berrechid</item>
+        <item>Nouaceur</item>
+        <item>Salé</item>
+        <item>Tetouan</item>
+        <item>Laayoun</item>
+        <item>Larache</item>
+        <item>Benguerir</item>
+        <item>Safi</item>
+        <item>Fes</item>
+        <item>Meknes</item>
+    </string-array>
+
+    <string-array name="secteurs">
+        <item>Developpemrnt</item>
+        <item>Automobile</item>
+        <item>Aéronautique</item>
+        <item>Infirmerie</item>
+        <item>Biologie</item>
+        <item>Electricité</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>it</item>
+        <item>gestion</item>
+        <item>market</item>
+
+        <item>Electronique</item>
+    </string-array>
+
+
+
+</resources>
